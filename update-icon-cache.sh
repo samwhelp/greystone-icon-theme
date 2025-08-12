@@ -4,7 +4,7 @@
 
 
 ##
-## go to work dir
+## ## go to work dir
 ##
 
 cd icons/GreyStone
@@ -13,7 +13,7 @@ cd icons/GreyStone
 
 
 ##
-## chmod for dir
+## ## update-icon-cache
 ##
 
 gtk-update-icon-cache -f .

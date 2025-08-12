@@ -4,7 +4,7 @@
 
 
 ##
-## go to work dir
+## ## go to work dir
 ##
 
 cd icons/GreyStone
@@ -13,7 +13,7 @@ cd icons/GreyStone
 
 
 ##
-## chmod for dir
+## ## chmod for dir
 ##
 
 find . -type d -exec chmod 755 '{}' \;
