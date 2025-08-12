@@ -19,7 +19,7 @@
 
 | Source |
 | ------ |
-| [GreyStone](https://github.com/SethStormR/GreyStone) |
+| GitHub / SethStormR / [GreyStone](https://github.com/SethStormR/GreyStone) |
 
 
 
