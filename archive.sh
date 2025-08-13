@@ -16,4 +16,5 @@ cd icons
 ## ## archive
 ##
 
-tar cJf GreyStone.tar.xz GreyStone
+#tar cJf GreyStone.tar.xz GreyStone
+tar -I 'xz -9 -T0' -cf GreyStone.tar.xz GreyStone
