@@ -4,10 +4,11 @@
    height="64"
    version="1.1"
    id="svg73"
-   sodipodi:docname="application-blank.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="application-vnd.rn-realmedia.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -38,7 +39,7 @@
      id="namedview75"
      showgrid="false"
      inkscape:zoom="4.4470387"
-     inkscape:cx="47.784608"
+     inkscape:cx="48.234345"
      inkscape:cy="14.054296"
      inkscape:window-x="119"
      inkscape:window-y="32"
@@ -95,6 +96,58 @@
          offset="1"
          id="stop10" />
     </linearGradient>
+    <linearGradient
+       id="_Linear2"
+       x2="1"
+       gradientTransform="matrix(-0.33662128,-17.588561,17.588561,-0.33662128,289.63742,32.316102)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#fefffe"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#f1f1f0"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <path
+         d="m 33.894,28.457 v 1.292 h -8.831 v -1.292 z m 5.169,-2.508 v 1.292 h -14 v -1.292 z m 0,-2.538 v 1.292 h -14 v -1.292 z"
+         style="display:block;fill:#d9dee3"
+         id="path7" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="" />
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d8dee9;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#eceff4;stop-opacity:1;"
+         offset="1"
+         id="stop2-0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient5"
+       x1="37.830982"
+       y1="26.034248"
+       x2="20.853935"
+       y2="19.901464"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <circle
      cx="32.516094"
@@ -113,8 +166,8 @@
      id="g877"
      transform="matrix(1.1,0,0,1.1,-3.1845928,-3.2065454)">
     <rect
-       x="13.389396"
-       y="8.0488043"
+       x="13.256583"
+       y="7.9866519"
        width="37.45882"
        height="48.038597"
        rx="7.9658151"
@@ -122,11 +175,15 @@
        fill="url(#linearGradient862)"
        stroke-width="3.0541"
        id="rect35-7-3"
-       style="fill:#414141;fill-opacity:1;stroke:#dfdfdf;stroke-width:2.27272727;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#414141;fill-opacity:1;stroke:#dfdfdf;stroke-width:2.27273;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="color:#444444;fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:0.736363;stroke-dasharray:none;stroke-opacity:0.3"
        class="ColorScheme-Text"
-       d="m 25.583458,22.917956 v 3.205806 h 12.823224 v -3.205806 z m -3.205808,4.808709 c -0.801451,0 -1.602902,0.801453 -1.602902,1.602905 v 6.411612 c 0,0.801452 0.801451,1.602904 1.602902,1.602904 h 1.602904 v -3.205805 h 16.029033 v 3.205805 h 1.602905 c 0.801451,0 1.602902,-0.801452 1.602902,-1.602904 V 29.32957 c 0,-0.801452 -0.801451,-1.602905 -1.602902,-1.602905 z m 3.205808,8.014517 v 8.01452 h 12.823224 v -8.01452 z"
+       d="m 25.574379,21.587072 v 3.205807 h 12.823227 v -3.205807 z m -3.205808,4.808709 c -0.801451,0 -1.602902,0.801453 -1.602902,1.602905 v 6.411617 c 0,0.80145 0.801451,1.602902 1.602902,1.602902 h 1.602904 V 32.8074 h 16.029036 v 3.205805 h 1.602906 c 0.80145,0 1.602901,-0.801451 1.602901,-1.602902 v -6.411617 c 0,-0.801452 -0.801451,-1.602905 -1.602901,-1.602905 z m 3.205808,8.014521 v 8.014527 h 12.823227 v -8.014527 z"
        id="path5-3" />
+    <g
+       transform="matrix(0.52960909,0,0,0.52960909,19.275358,20.354587)"
+       id="g5"
+       style="fill:#dfdfdf;fill-opacity:1" />
   </g>
 </svg>

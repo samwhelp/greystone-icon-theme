@@ -4,8 +4,8 @@
    height="64"
    version="1.1"
    id="svg73"
-   sodipodi:docname="gnome-window-manager.svg"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="audacious.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -33,15 +33,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1183"
-     inkscape:window-height="973"
+     inkscape:window-width="1377"
+     inkscape:window-height="886"
      id="namedview75"
      showgrid="false"
-     inkscape:zoom="4.4470387"
-     inkscape:cx="26.646946"
-     inkscape:cy="12.030478"
-     inkscape:window-x="35"
-     inkscape:window-y="32"
+     inkscape:zoom="6.2890624"
+     inkscape:cx="46.82733"
+     inkscape:cy="42.21615"
+     inkscape:window-x="37"
+     inkscape:window-y="75"
      inkscape:window-maximized="0"
      inkscape:current-layer="g877"
      inkscape:document-rotation="0"
@@ -49,53 +49,7 @@
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1" />
   <defs
-     id="defs29">
-    <linearGradient
-       id="b"
-       x1="399.57"
-       x2="399.57"
-       y1="545.8"
-       y2="517.8"
-       gradientTransform="matrix(2.1429,0,0,2.1429,-825.86391,-1107.6662)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#3889e9"
-         offset="0"
-         id="stop2" />
-      <stop
-         stop-color="#5ea5fb"
-         offset="1"
-         id="stop4" />
-    </linearGradient>
-    <linearGradient
-       id="d"
-       x2="1"
-       gradientTransform="matrix(14.905727,-4.7106182,4.7106182,14.905727,322.04962,998.26962)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#fafafa"
-         offset="0"
-         id="stop7" />
-      <stop
-         stop-color="#aaa"
-         offset="1"
-         id="stop8" />
-    </linearGradient>
-    <linearGradient
-       id="e"
-       x2="1"
-       gradientTransform="matrix(21.439909,0,0,21.439909,26.63554,1159.7788)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#f0f0f0"
-         offset="0"
-         id="stop9" />
-      <stop
-         stop-color="#b7f1ff"
-         offset="1"
-         id="stop10" />
-    </linearGradient>
-  </defs>
+     id="defs29" />
   <circle
      cx="32.516094"
      cy="31.877844"
@@ -113,31 +67,32 @@
      id="g877"
      transform="matrix(1.1,0,0,1.1,-3.1845928,-3.2065454)">
     <rect
-       x="6.3010068"
-       y="5.4939413"
-       width="51.635597"
-       height="53.148327"
-       rx="10.980581"
-       ry="10.720582"
+       x="8.3496294"
+       y="8.369586"
+       width="47.272728"
+       height="47.272728"
+       rx="9.8825235"
+       ry="9.6485243"
        fill="url(#linearGradient862)"
        stroke-width="3.0541"
        id="rect35-7-3"
-       style="fill:#414141;fill-opacity:1;stroke:#dfdfdf;stroke-width:2.27272727;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#414141;fill-opacity:1;stroke:#dfdfdf;stroke-width:2.04545;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       fill-rule="nonzero"
-       transform="matrix(0.9647286,0,0,0.9647286,2.3779801,2.0432897)"
-       id="g4"
-       style="fill:#dfdfdf;fill-opacity:1">
+       id="g7"
+       transform="matrix(0.75192263,0,0,0.75192263,7.5485073,7.9444265)"
+       style="fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:0.685871;stroke-dasharray:none;stroke-opacity:0.6">
       <path
-         d="M 20.25,12 C 21.774,12 23,13.274 23,14.857 V 52 H 20.25 C 17.5,52 12,49.143 12,44.857 v -30 C 12,13.274 13.226,12 14.75,12 Z m 29.881,0 v 2.75 c 0,2.75 -2.842,8.25 -7.105,8.25 H 28.842 C 27.268,23 26,21.773 26,20.25 v -5.5 C 26,13.227 27.268,12 28.842,12 Z"
-         fill="#b50010"
-         id="path3"
-         style="fill:#dfdfdf;fill-opacity:1" />
+         style="fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:0.685871;stroke-dasharray:none;stroke-opacity:0.6"
+         d="M 14.75,12 C 13.2265,12 12,13.274286 12,14.857143 v 30 C 12,49.142857 17.5,52 20.25,52 H 23 v -2.857143 -4.285714 -30 C 23,13.274286 21.7735,12 20.25,12 Z"
+         id="path4" />
       <path
-         d="m 27.321,26 h -0.03 C 26.583,26 26,26.515 26,27.141 v 14.72 c 0.001,0.625 0.584,1.139 1.291,1.139 0.227,0 0.449,-0.053 0.645,-0.153 l 7.21,-3.679 7.209,-3.679 C 42.754,35.285 43,34.908 43,34.501 43,34.094 42.754,33.716 42.355,33.512 l -7.209,-3.679 -7.21,-3.679 C 27.749,26.058 27.538,26.005 27.321,26 Z"
-         fill="#007aba"
-         id="path4"
-         style="fill:#dfdfdf;fill-opacity:1" />
+         style="fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:0.685871;stroke-dasharray:none;stroke-opacity:0.6"
+         d="M 26,20.25 C 26,21.7735 27.267579,23 28.842105,23 H 45.894737 C 50.157895,23 53,17.5 53,14.75 V 12 H 50.157895 45.894737 28.842105 C 27.267579,12 26,13.2265 26,14.75 Z"
+         id="path5" />
+      <path
+         style="fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:0.685871;stroke-dasharray:none;stroke-opacity:0.6"
+         d="m 27.321275,26.000307 a 1.2913161,1.1414724 0 0 0 -1.321274,1.142629 v 7.358815 7.358816 a 1.2913161,1.1414724 0 0 0 1.936147,0.986925 l 7.209509,-3.679407 7.209511,-3.679409 a 1.2913161,1.1414724 0 0 0 0,-1.976244 l -7.209511,-3.679408 -7.209509,-3.679407 a 1.2913161,1.1414724 0 0 0 -0.614873,-0.15331 z"
+         id="path6" />
     </g>
   </g>
 </svg>

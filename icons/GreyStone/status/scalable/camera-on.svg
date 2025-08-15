@@ -1,10 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <rect style="opacity:0.2" width="40" height="40" x="-45" y="-44" rx="20" ry="20" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#e4e4e4" width="40" height="40" x="-44" y="-44" rx="20" ry="20" transform="matrix(0,-1,-1,0,0,0)"/>
- <circle style="fill:#3f3f3f" cx="24" cy="24" r="12"/>
- <circle style="opacity:0.2" cx="24" cy="-25" r="9" transform="scale(1,-1)"/>
- <circle style="fill:#ba174e" cx="24" cy="-24" r="9" transform="scale(1,-1)"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 24,4 C 12.92,4 4,12.92 4,24 4,24.168 4.0076,24.333 4.0117,24.5 4.2764,13.654 13.088,5 23.9997,5 c 10.9117,0 19.724,8.654 19.988,19.5 0.004,-0.167 0.012,-0.332 0.012,-0.5 0,-11.08 -8.92,-20 -20,-20 z"/>
- <circle style="opacity:0.2" cx="24" cy="25" r="6"/>
- <circle style="fill:#d67495" cx="24" cy="24" r="6"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 12,5 c -3.3137,0 -6,2.6863 -6,6 0,2.087 1.0708,3.9251 2.6875,5 L 8,16 c -2,0 -2,2 -2,2 l 0,1 12,0 0,-1 c 0,0 0,-2 -2,-2 l -0.6875,0 c 1.617,-1.075 2.688,-2.913 2.688,-5 0,-3.3137 -2.686,-6 -6,-6 z m 0,4.0039 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z"/>
 </svg>

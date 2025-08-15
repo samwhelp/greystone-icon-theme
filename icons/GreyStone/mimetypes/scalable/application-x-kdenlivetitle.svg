@@ -4,8 +4,8 @@
    height="64"
    version="1.1"
    id="svg73"
-   sodipodi:docname="application-x-st-disk-image.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="application-x-kdenlivetitle.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -38,7 +38,7 @@
      id="namedview75"
      showgrid="false"
      inkscape:zoom="4.4470387"
-     inkscape:cx="47.897042"
+     inkscape:cx="48.009477"
      inkscape:cy="14.054296"
      inkscape:window-x="119"
      inkscape:window-y="32"
@@ -125,7 +125,7 @@
        inverse="true"
        flatten="false"
        hide_clip="false"
-       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+       message="" />
   </defs>
   <circle
      cx="32.516094"
@@ -144,8 +144,8 @@
      id="g877"
      transform="matrix(1.1,0,0,1.1,-3.1845928,-3.2065454)">
     <rect
-       x="13.389396"
-       y="8.0488043"
+       x="13.256583"
+       y="7.9866519"
        width="37.45882"
        height="48.038597"
        rx="7.9658151"
@@ -153,10 +153,10 @@
        fill="url(#linearGradient862)"
        stroke-width="3.0541"
        id="rect35-7-3"
-       style="fill:#414141;fill-opacity:1;stroke:#dfdfdf;stroke-width:2.27272727;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#414141;fill-opacity:1;stroke:#dfdfdf;stroke-width:2.27273;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:0.750221;stroke-dasharray:none;stroke-opacity:0.3"
-       d="M 22.07451,20.519587 V 44.280086 H 42.326202 V 20.519587 h -1.265731 v 1.48503 h -1.265733 v -1.48503 H 24.605971 v 1.48503 H 23.34024 l -2.52e-4,-1.48503 h -1.265529 z m 5.062922,2.970061 h 10.125845 v 7.425159 H 27.137432 Z m -3.797444,1.485033 h 1.265731 v 2.970062 h -1.265731 z m 16.4545,0 h 1.26573 v 2.970062 h -1.26573 z m -16.4545,5.940126 h 1.265731 v 2.970061 h -1.265731 z m 16.4545,0 h 1.26573 v 2.970061 h -1.26573 z m -12.657309,2.970061 h 10.125844 v 7.425156 H 27.137179 Z m -3.797446,2.970062 h 1.265732 v 2.970066 h -1.265732 z m 16.454502,0 h 1.265728 v 2.970066 h -1.265728 z m -16.454501,5.94013 h 1.265731 v 1.485026 h -1.265731 z m 16.454501,0 h 1.265728 v 1.485026 h -1.265728 z"
+       d="M 21.860173,20.125701 V 43.8862 H 42.111865 V 20.125701 h -1.265731 v 1.48503 h -1.265733 v -1.48503 H 24.391634 v 1.48503 h -1.265731 l -2.52e-4,-1.48503 h -1.265529 z m 5.062922,2.970061 H 37.04894 v 7.425159 H 26.923095 Z m -3.797444,1.485033 h 1.265731 v 2.970062 h -1.265731 z m 16.4545,0 h 1.26573 v 2.970062 h -1.26573 z m -16.4545,5.940126 h 1.265731 v 2.970061 h -1.265731 z m 16.4545,0 h 1.26573 v 2.970061 h -1.26573 z m -12.657309,2.970061 h 10.125844 v 7.425156 H 26.922842 Z m -3.797446,2.970062 h 1.265732 v 2.970066 h -1.265732 z m 16.454502,0 h 1.265728 v 2.970066 h -1.265728 z m -16.454501,5.94013 h 1.265731 V 43.8862 h -1.265731 z m 16.454501,0 h 1.265728 V 43.8862 h -1.265728 z"
        id="path4" />
     <g
        transform="matrix(0.52960909,0,0,0.52960909,19.275358,20.354587)"

@@ -4,8 +4,8 @@
    height="64"
    version="1.1"
    id="svg73"
-   sodipodi:docname="accessories-character-map.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="partitionmanager.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -37,11 +37,11 @@
      inkscape:window-height="886"
      id="namedview75"
      showgrid="false"
-     inkscape:zoom="4.4470387"
-     inkscape:cx="47.784608"
-     inkscape:cy="14.054296"
-     inkscape:window-x="181"
-     inkscape:window-y="77"
+     inkscape:zoom="6.2890624"
+     inkscape:cx="47.622361"
+     inkscape:cy="45.396274"
+     inkscape:window-x="264"
+     inkscape:window-y="102"
      inkscape:window-maximized="0"
      inkscape:current-layer="g877"
      inkscape:document-rotation="0"
@@ -67,34 +67,6 @@
          offset="1"
          id="stop4" />
     </linearGradient>
-    <linearGradient
-       id="d"
-       x2="1"
-       gradientTransform="matrix(14.905727,-4.7106182,4.7106182,14.905727,322.04962,998.26962)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#fafafa"
-         offset="0"
-         id="stop7" />
-      <stop
-         stop-color="#aaa"
-         offset="1"
-         id="stop8" />
-    </linearGradient>
-    <linearGradient
-       id="e"
-       x2="1"
-       gradientTransform="matrix(21.439909,0,0,21.439909,26.63554,1159.7788)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#f0f0f0"
-         offset="0"
-         id="stop9" />
-      <stop
-         stop-color="#b7f1ff"
-         offset="1"
-         id="stop10" />
-    </linearGradient>
   </defs>
   <circle
      cx="32.516094"
@@ -113,31 +85,20 @@
      id="g877"
      transform="matrix(1.1,0,0,1.1,-3.1845928,-3.2065454)">
     <rect
-       x="6.3010068"
-       y="5.4939413"
-       width="51.635597"
-       height="53.148327"
-       rx="10.980581"
-       ry="10.720582"
+       x="8.3496294"
+       y="8.369586"
+       width="47.272728"
+       height="47.272728"
+       rx="9.8825235"
+       ry="9.6485243"
        fill="url(#linearGradient862)"
        stroke-width="3.0541"
        id="rect35-7-3"
-       style="fill:#414141;fill-opacity:1;stroke:#dfdfdf;stroke-width:2.27272727;stroke-dasharray:none;stroke-opacity:1" />
-    <g
-       transform="matrix(1.3197823,0,0,1.3197823,1.9420485,3.3188545)"
-       fill="#ffffff"
-       fill-opacity="0.85"
-       fill-rule="nonzero"
-       id="g3"
-       style="fill:#dfdfdf;fill-opacity:1">
-      <path
-         d="m 22.683,16.977 c -2.028,0 -3.465,1.646 -3.465,3.672 v 12.485 c 0,2.028 1.437,3.671 3.465,3.671 2.027,0 3.463,-1.643 3.463,-3.671 V 20.649 c 0,-2.028 -1.436,-3.672 -3.463,-3.672 z"
-         id="path2"
-         style="fill:#dfdfdf;fill-opacity:1" />
-      <path
-         d="m 22.698,7.432 c -2.095,0 -3.795,1.699 -3.795,3.795 0,2.095 1.7,3.793 3.795,3.793 2.093,0 3.793,-1.698 3.793,-3.793 0,-2.096 -1.7,-3.795 -3.793,-3.795 z"
-         id="path3"
-         style="fill:#dfdfdf;fill-opacity:1" />
-    </g>
+       style="fill:#414141;fill-opacity:1;stroke:#dfdfdf;stroke-width:2.04545;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 28.475028,47.753723 h 7.125899 V 27.570535 h -7.125899 z m 3.583548,-22.94293 c 2.430218,0 4.07783,-1.647607 4.07783,-4.07783 0,-2.471403 -1.647612,-4.119016 -4.07783,-4.119016 -2.430225,0 -4.07783,1.647613 -4.07783,4.119016 0,2.430223 1.647605,4.07783 4.07783,4.07783 z"
+       id="text1"
+       style="font-weight:800;font-size:5.64433px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';letter-spacing:0.264578px;fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:0.990801;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.2;stroke-opacity:0.3"
+       aria-label="i" />
   </g>
 </svg>

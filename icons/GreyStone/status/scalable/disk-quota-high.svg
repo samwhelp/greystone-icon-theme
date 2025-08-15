@@ -1,17 +1,11 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(.75 0 0 .75 0 -3.55271e-15)">
-  <path d="m61.122 15.88c0-2.762-2.239-5-5-5h-48.244c-2.761 0-5 2.238-5 5v32.246c0 2.761 2.239 5 5 5h48.244c2.761 0 5-2.239 5-5v-32.246z" style="fill:rgb(0,131,213)"/>
- </g>
- <g transform="matrix(.75 0 0 .75 0 -3.55271e-15)">
-  <path d="m61.122 20.652c0-1.326-0.527-2.598-1.465-3.536-0.938-0.937-2.209-1.464-3.535-1.464h-25.58c-1.232 0-2.42-0.455-3.337-1.277-0.768-0.689-1.713-1.535-2.481-2.224-0.917-0.822-2.105-1.277-3.337-1.277h-13.509c-1.326 0-2.597 0.527-3.535 1.465-0.938 0.937-1.465 2.209-1.465 3.535v32.252c0 2.761 2.239 5 5 5h48.244c2.761 0 5-2.239 5-5v-27.474z" style="fill:url(#_Linear1)"/>
- </g>
- <g transform="matrix(2.09887,0,0,1.88026,21.9848,17.2743)">
-  <path d="m11.657 2.206c-0.601-0.967-7.351-1.046-8.268 0v10.057c1.105 1.792 7.211 1.82 8.268 0v-10.057zm-4.134 0.047c1.909 0 3.458 0.325 3.458 0.725 0 0.401-1.549 0.726-3.458 0.726s-3.458-0.325-3.458-0.726c0-0.4 1.549-0.725 3.458-0.725z" style="fill:rgb(199,41,41)"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
  <defs>
-  <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(2.54933e-15,-41.6338,41.6338,2.54933e-15,897.879,52.7218)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:rgb(16,117,246)" offset="0"/>
-   <stop style="stop-color:rgb(18,197,255)" offset="1"/>
-  </linearGradient>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
  </defs>
+ <g transform="translate(1,1)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 5,3 C 4,3 4,4 4,4 V 18 C 4,18 4,19 5,19 H 13 V 14.564 A 5,5 0 0 1 11,15 H 6 V 10 A 5,5 0 0 1 11,5 5,5 0 0 1 16,10 5,5 0 0 1 14.98,13 H 18 V 4 C 18,4 18,3 17,3 Z M 11,7 A 3,3 0 0 0 8,10 3,3 0 0 0 11,13 3,3 0 0 0 14,10 3,3 0 0 0 11,7 Z"/>
+  <path style="fill:currentColor" class="ColorScheme-NeutralText" d="M 17,14 A 3,1 0 0 0 14,15 V 20 A 3,1 0 0 0 17,21 3,1 0 0 0 20,20 V 15 A 3,1 0 0 0 17,14 Z M 17,15 A 3,1 0 0 1 19,15.258 V 15.744 A 3,1 0 0 1 17,16 3,1 0 0 1 15,15.742 V 15.256 A 3,1 0 0 1 17,15 Z"/>
+ </g>
 </svg>

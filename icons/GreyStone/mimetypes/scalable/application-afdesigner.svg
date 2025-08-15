@@ -4,8 +4,8 @@
    height="64"
    version="1.1"
    id="svg73"
-   sodipodi:docname="application-x-st-disk-image.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="application-vnd.rn-realmedia.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -38,7 +38,7 @@
      id="namedview75"
      showgrid="false"
      inkscape:zoom="4.4470387"
-     inkscape:cx="47.897042"
+     inkscape:cx="48.234345"
      inkscape:cy="14.054296"
      inkscape:window-x="119"
      inkscape:window-y="32"
@@ -125,7 +125,7 @@
        inverse="true"
        flatten="false"
        hide_clip="false"
-       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+       message="" />
   </defs>
   <circle
      cx="32.516094"
@@ -144,8 +144,8 @@
      id="g877"
      transform="matrix(1.1,0,0,1.1,-3.1845928,-3.2065454)">
     <rect
-       x="13.389396"
-       y="8.0488043"
+       x="13.256583"
+       y="7.9866519"
        width="37.45882"
        height="48.038597"
        rx="7.9658151"
@@ -153,11 +153,11 @@
        fill="url(#linearGradient862)"
        stroke-width="3.0541"
        id="rect35-7-3"
-       style="fill:#414141;fill-opacity:1;stroke:#dfdfdf;stroke-width:2.27272727;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#414141;fill-opacity:1;stroke:#dfdfdf;stroke-width:2.27273;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       style="fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:0.3"
-       d="m 29.62774,22.197486 h 3.524361 l 0.294812,1.058744 h 1.010243 l 8.814247,15.091992 -1.897989,3.435997 h -7.714531 l 0.781762,1.588114 H 34.099421 L 33.317734,41.784219 H 23.741659 L 23.25145,40.725478 h -0.606234 l -1.752214,-3.032109 v 0 l 2.245771,-3.870204 2.080208,-1.191252 3.44158,-5.920406 -0.692288,-1.191323 z m 2.076863,5.705345 -6.088159,10.705161 h 5.826507 l -0.672431,-1.591744 6.349817,0.0069 z"
-       id="path8" />
+       style="fill:#dfdfdf;fill-opacity:1;stroke-width:0.483129"
+       d="m 29.760432,22.343386 h 3.195674 l 0.267328,0.966256 h 0.916029 l 7.992221,13.773639 -1.720983,3.135848 h -6.995063 l 0.708852,1.449385 H 33.815078 L 33.106294,40.219129 H 24.42329 l -0.444491,-0.966256 h -0.549697 l -1.5888,-2.767239 v 0 l 2.036327,-3.532128 1.886206,-1.08719 3.120615,-5.403231 -0.627724,-1.087255 z m 1.883172,5.206953 -5.520373,9.77002 h 5.283122 l -0.60972,-1.452698 5.757625,0.0066 z"
+       id="path3-3" />
     <g
        transform="matrix(0.52960909,0,0,0.52960909,19.275358,20.354587)"
        id="g5"
