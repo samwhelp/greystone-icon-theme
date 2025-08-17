@@ -61,3 +61,35 @@ deb-build-dep:
 deb-build:
 	dpkg-buildpackage -b -uc -us -tc
 .PHONY: deb-build
+
+
+
+
+##
+## ## icon
+##
+
+icon-archive:
+	@./icon-archive.sh
+.PHONY: icon-archive
+
+
+icon-install:
+	@./icon-install.sh
+.PHONY: icon-install
+
+
+
+
+##
+## ## util
+##
+
+util-fix-file-permissions:
+	@./util-fix-file-permissions.sh
+.PHONY: util-fix-file-permissions
+
+
+util-update-icon-cache:
+	@./util-update-icon-cache.sh
+.PHONY: util-update-icon-cache
