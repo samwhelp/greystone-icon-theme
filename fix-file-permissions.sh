@@ -22,7 +22,7 @@ find . -type d -exec chmod 755 '{}' \;
 
 
 ##
-## chmod for file
+## ## chmod for file
 ##
 
 find . -type f -exec chmod 644 '{}' \;
