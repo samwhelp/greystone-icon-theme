@@ -1,6 +1,7 @@
 greystone-icon-theme (0.1.1) unstable; urgency=low
 
   * Initial release  <develop@home.heaven>
-  * Skel create debian package for wallpaper collection
+  * GreyStone Icon Theme is a Grey Icon Theme Pack.
+  * Source from [GreyStone](https://github.com/SethStormR/GreyStone).
 
- -- Develop Team <develop@home.heaven>  Mon, 02 Dec 2024 05:20:14 +0800
+ -- Develop Team <develop@home.heaven>  Mon, 18 Aug 2025 16:49:24 +0800

@@ -130,9 +130,9 @@ changelog-edit:
 .PHONY: changelog-edit
 
 
-changelog-date:
+changelog-time:
 	date -R
-.PHONY: changelog-date
+.PHONY: changelog-time
 
 
 ##

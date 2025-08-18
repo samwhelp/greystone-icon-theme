@@ -1,17 +1,19 @@
 Source: greystone-icon-theme
-Section: devel
+Section: universe/x11
 Priority: optional
 Maintainer: Develop Team <develop@home.heaven>
-Build-Depends: debhelper (>= 9),
-               make
-Standards-Version: 4.5.0
+Build-Depends:
+ debhelper (>= 10),
+ make
+Standards-Version: 4.7.2
 Homepage: https://samwhelp.github.io/greystone-icon-theme/
 Vcs-Browser: https://github.com/samwhelp/greystone-icon-theme
 Vcs-Git: https://github.com/samwhelp/greystone-icon-theme.git
 
 Package: greystone-icon-theme
-Architecture: any
-Depends: ${misc:Depends},
-         ${shlibs:Depends}
-Description: Demo Skel Build Debian Package
- Skel create debian package for wallpaper collection.
+Architecture: all
+Depends:
+ ${misc:Depends}
+Description: Grey Icon Theme
+ GreyStone Icon Theme is a Grey Icon Theme Pack.
+ Source from [GreyStone](https://github.com/SethStormR/GreyStone).
