@@ -1,14 +1,37 @@
 
 
+##
+## ## Path
+##
+
+DESTDIR ?=
+PREFIX ?= /usr
+BINDIR := $(DESTDIR)$(PREFIX)/bin
+MANDIR := $(DESTDIR)$(PREFIX)/man
+SHAREDIR := $(DESTDIR)$(PREFIX)/share
+
+
+
+
+##
+## ## Default Rule
+##
+
 default: build
 .PHONY: default
 
+
+
+
+##
+## ## Help
+##
 
 help:
 	@echo 'Usage:'
 	@echo '	$$ make [action]'
 	@echo
-	@echo 'Ex:'
+	@echo 'Example:'
 	@echo '	$$ make'
 	@echo '	$$ make help'
 	@echo
@@ -18,7 +41,32 @@ help:
 	@echo
 	@echo '	$$ make deb-build'
 	@echo
+	@echo '	$$ make srcdeb-build'
+	@echo
+	@echo
+	@echo '	$$ make icon-archive'
+	@echo '	$$ make icon-install'
+	@echo
+	@echo
+	@echo '	$$ make util-fix-file-permissions'
+	@echo '	$$ make util-update-icon-cache'
+	@echo
 .PHONY: help
+
+
+
+
+##
+## ## Dump
+##
+
+dump:
+	@echo "DESTDIR=$(DESTDIR)"
+	@echo "PREFIX=$(PREFIX)"
+	@echo "BINDIR=$(BINDIR)"
+	@echo "MANDIR=$(MANDIR)"
+	@echo "SHAREDIR=$(SHAREDIR)"
+.PHONY: dump
 
 
 
@@ -61,6 +109,37 @@ deb-build-dep:
 deb-build:
 	dpkg-buildpackage -b -uc -us -tc
 .PHONY: deb-build
+
+
+srcdeb-build:
+	dpkg-buildpackage -uc -us -tc
+.PHONY: srcdeb-build
+
+
+
+
+##
+## ## changelog
+##
+## * [man 5 deb-changelog](https://manpages.debian.org/stable/dpkg-dev/deb-changelog.5.en.html)
+## * [man 1 debchange](https://manpages.debian.org/stable/devscripts/debchange.1.en.html)
+##
+
+changelog-edit:
+	debchange
+.PHONY: changelog-edit
+
+
+changelog-date:
+	date -R
+.PHONY: changelog-date
+
+
+##
+## `date -R`
+##
+## `date -d '2025-06-09 07:45:46' -R`
+##
 
 
 
