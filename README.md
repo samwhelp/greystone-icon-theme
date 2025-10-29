@@ -30,7 +30,7 @@
 
 | Branch | Note |
 | ------ | ---- |
-| [main](https://github.com/samwhelp/greystone-icon-theme/tree/main) | Orginal forked |
+| [main](https://github.com/samwhelp/greystone-icon-theme/tree/main) | Forked from [SethStormR/GreyStone](https://github.com/SethStormR/GreyStone) |
 | [develop](https://github.com/samwhelp/greystone-icon-theme/tree/develop) | For develop |
 | [port](https://github.com/samwhelp/greystone-icon-theme/tree/port) | For [pacstall](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-greystone-icon-theme/bean-appearance-greystone-icon-theme.pacscript#L7) |
 
