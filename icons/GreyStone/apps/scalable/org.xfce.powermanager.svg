@@ -4,7 +4,7 @@
    height="64"
    version="1.1"
    id="svg73"
-   sodipodi:docname="audacious.svg"
+   sodipodi:docname="org.xfce.powermanager.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -38,7 +38,7 @@
      id="namedview75"
      showgrid="false"
      inkscape:zoom="6.2890624"
-     inkscape:cx="46.82733"
+     inkscape:cx="46.986336"
      inkscape:cy="41.739131"
      inkscape:window-x="0"
      inkscape:window-y="49"
@@ -78,9 +78,8 @@
        id="rect35-7-3"
        style="fill:#414141;fill-opacity:1;stroke:#dfdfdf;stroke-width:2.04545;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       style="color:#444444;fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:0.6"
-       class="ColorScheme-Text"
-       d="m 27.495708,16.213068 v 2.256125 H 20.760286 V 47.798832 H 43.211701 V 18.469193 h -6.735426 v -2.256125 z"
-       id="path5-3" />
+       style="fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:0.6"
+       d="M 32.245501,16.236313 V 28.063541 H 43.786093 L 32.245501,47.775588 V 35.948357 H 20.704907 Z"
+       id="path6" />
   </g>
 </svg>
