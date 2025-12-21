@@ -4,16 +4,24 @@
 
 
 ##
-## ## go to work dir
+## ## update-icon-cache / default edition
 ##
 
 cd icons/GreyStone
 
+gtk-update-icon-cache -f .
+
+cd ${OLDPWD}
+
 
 
 
 ##
-## ## update-icon-cache
+## ## update-icon-cache / circle edition
 ##
+
+cd icons/GreyStone-Circle
 
 gtk-update-icon-cache -f .
+
+cd ${OLDPWD}
