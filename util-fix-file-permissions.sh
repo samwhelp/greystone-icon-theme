@@ -7,7 +7,8 @@
 ## ## go to work dir
 ##
 
-cd icons/GreyStone
+cd icons
+#cd icons/GreyStone
 
 
 
