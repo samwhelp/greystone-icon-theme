@@ -1,6 +1,6 @@
 
 
-# greystone-icon-theme
+# Home
 
 > [greystone-icon-theme](https://github.com/samwhelp/greystone-icon-theme)
 
